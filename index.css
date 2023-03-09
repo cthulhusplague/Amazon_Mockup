@@ -1,0 +1,77 @@
+. {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+. {
+    background-color: orange;
+    border-color: orange;
+    padding-left: 100px;
+    padding-right: 120px;
+    padding-top: 8px;
+    text-align: center;
+    margin-left: 10px;
+}
+arrow {
+    border: lightblue;
+    border-width: 3px;
+    display: inline;
+    padding: 2px;
+}
+.left{
+    transform: rotate(135);
+    -webkit-transform: rotate(135);
+}
+.line{
+    width: 100px;
+    background-color: black;
+    border: 0.1em;
+    margin-top: 0.45em;
+    margin-bottom: 0.45em;
+    text-align: center;
+}
+.text{
+    float: left;
+}
+.text{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.sign{
+    border-color: lightgray;
+}
+body{
+    background: center;
+    margin: 5px;
+    padding: 5px;
+}
+wrap{
+    width: 300px;
+    border: 1px;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 130px;
+    margin-bottom: 5px;
+    margin-left: 160px;
+}
+conditions{
+    text-align: left;
+    color: blue;
+    margin-top: 45px;
+    margin-left: 200px;
+    font-size: small;
+}
+create{
+    padding-left: 85px;
+    padding-right: 95px;
+    text-align: center;
+    font-size: medium;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 35px;
+}
+footer{
+    margin-top: 30px;
+    font-size: small;
+}
